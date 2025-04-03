@@ -9,9 +9,8 @@
 ## ⚡ **Skills**  
 
 ### 🔹 **Programming Languages**  
-- Python (Pandas, MySQL, Flask, Pymongo, Docx)  
-- C  
-- C#  
+- Python (Pandas, MySQL, Flask, Pymongo, Docx)
+- C# / Unity 
 - Java  
 - JavaScript (Node.js, API Restful, JWT Token)  
 - **Others:** Kotlin, Lua, PHP (basic)  
@@ -23,11 +22,12 @@
 
 ### 🔹 **Databases**  
 - MySQL  
-- MongoDB  
 
 ### 🔹 **Tools & Technologies**  
-- **Development:** Git, GitHub, Wix  
-- **Productivity:** Word, PowerPoint, Excel (basic), Google Tools  
+- **Development:** Git, GitHub, Wix
+- **IDEs & Code Editors:** Visual Studio, Visual Studio Code,  Dev-C++, PyCharm, NetBeans
+- **API Testing:** Insomnia
+- **Productivity:** Word, PowerPoint, Excel (basic), Google Tools
 
 
 ## 📫 **Contact Me**    
