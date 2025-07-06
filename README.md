@@ -1,7 +1,7 @@
 # 👋 Hello, I'm **Evelin Visoto** 
 
 💻 **Full Stack Developer | Junior Dev | IT Technician**  
-📚 **Currently learning:** Front-end, system automation, and Git/GitHub  
+📚 **Currently learning:** React, Angular, TypeScript, system automation, and AI integration
 🤝 **Looking to collaborate on:** Open-source projects and innovative solutions  
 🔍 **Currently looking for a job opportunity**
 
@@ -21,7 +21,8 @@
 - Bootstrap  
 
 ### 🔹 **Databases**  
-- MySQL  
+- MySQL
+- NoSQL: MongoDB (basic)
 
 ### 🔹 **Tools & Technologies**  
 - **Development:** Git, GitHub, Wix
