@@ -2,6 +2,7 @@
 
 💻 **Front-end and Back-end Developer | Junior Dev | IT Technician**  
 📚 **Currently learning:** React, Angular, TypeScript, system automation, and AI integration
+
 🤝 **Looking to collaborate on:** Open-source projects and innovative solutions  
 🔍 **Currently looking for a job opportunity**
 
