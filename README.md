@@ -20,15 +20,15 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,androidstudio,unity" />
 </p>
-
-> <b> Confira meus [repositórios](https://github.com/evelinvisoto?tab=repositories). </b>
+ 
+> <b> Check out my [repositories](https://github.com/evelinvisoto?tab=repositories). </b>
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=evelinvisoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=evelinvisoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000)
 
 </div>
 
