@@ -2,27 +2,29 @@
   <img src="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/banner_github.png" alt="Banner Evelin Visoto" width="100%"> 
 </p>
 
-<h1 align="center">👋 Olá! Eu sou <span style="color:#7DF9FF;">Evelin Visoto</span></h1>
+<h1 align="center">👋 Hello, I'm Evelin Visoto</h1>
 
 <p align="center">
-  💻 <b>Desenvolvedora Front-end & Back-end</b> • 🎓 <b>Técnica em Informática</b> • 🚀 <b>Dev Júnior</b><br>
-  🌱 Atualmente aprendendo <b>React, Angular, TypeScript e integração com IA</b><br>
-  🔍 Em busca de uma <b>oportunidade profissional</b>
+  💻 <b>Front-end and Back-end Developer</b> • 🎓 <b>IT Technician</b> • 🚀 <b>Junior Dev</b><br>
+  📚 Currently learning <b>React, Angular, TypeScript and AI integration</b><br>
+  🔍 Currently looking for a <b>job opportunity</b>
 </p>
 
 ## ⚡ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,php,lua" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,php,lua,kotlin" />
+  <br><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,react" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,androidstudio," />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,androidstudio,unity" />
 </p>
 
-> Confira meus [repositórios](https://github.com/evelinvisoto?tab=repositories).
+> <b> Confira meus [repositórios](https://github.com/evelinvisoto?tab=repositories). </b>
 
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -31,7 +33,7 @@
 </div>
 
 
-## 🖤 Entre em Contato
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.instagram.com/evelinvisoto/" target="_blank">
