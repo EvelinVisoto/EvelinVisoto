@@ -1,38 +1,46 @@
-# 👋 Hello, I'm **Evelin Visoto** 
+<p align="center">
+  <img src="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/banner_github.png" alt="Banner Evelin Visoto" width="100%"> 
+</p>
 
-💻 **Front-end and Back-end Developer | Junior Dev | IT Technician**  
-📚 **Currently learning:** React, Angular, TypeScript, system automation, and AI integration
+<h1 align="center">👋 Olá! Eu sou <span style="color:#7DF9FF;">Evelin Visoto</span></h1>
 
-🤝 **Looking to collaborate on:** Open-source projects and innovative solutions  
-🔍 **Currently looking for a job opportunity**
+<p align="center">
+  💻 <b>Desenvolvedora Front-end & Back-end</b> • 🎓 <b>Técnica em Informática</b> • 🚀 <b>Dev Júnior</b><br>
+  🌱 Atualmente aprendendo <b>React, Angular, TypeScript e integração com IA</b><br>
+  🔍 Em busca de uma <b>oportunidade profissional</b>
+</p>
 
+## ⚡ My Tech Stack
 
-## ⚡ **Skills**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,php,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,androidstudio," />
+</p>
 
-### 🔹 **Programming Languages**  
-- Python (Pandas, MySQL, Flask, Pymongo, Docx)
-- C# / Unity 
-- Java  
-- JavaScript (Node.js, API Restful, JWT Token)  
-- **Others:** Kotlin, Lua, PHP (basic)  
-
-### 🔹 **Web Technologies**  
-- HTML  
-- CSS  
-- Bootstrap  
-
-### 🔹 **Databases**  
-- MySQL
-- NoSQL: MongoDB (basic)
-
-### 🔹 **Tools & Technologies**  
-- **Development:** Git, GitHub, Wix
-- **IDEs & Code Editors:** Visual Studio, Visual Studio Code,  Dev-C++, PyCharm, NetBeans
-- **API Testing:** Insomnia
-- **Productivity:** Word, PowerPoint, Excel (basic), Google Tools
+> Confira meus [repositórios](https://github.com/evelinvisoto?tab=repositories).
 
 
-## 📫 **Contact Me**    
+## 📊 Estatísticas do GitHub
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evelinvisoto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelin.visoto@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelin-visoto-fernandes/)
+<div align="center">
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=evelinvisoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
+
+</div>
+
+
+## 🖤 Entre em Contato
+
+<p align="center">
+  <a href="https://www.instagram.com/evelinvisoto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:evelin.visoto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/evelin-visoto-fernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+  </a>
+</p>
