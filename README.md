@@ -45,4 +45,7 @@
   <a href="https://www.linkedin.com/in/evelin-visoto-fernandes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/CV_EVELIN%20VISOTO_TI_102025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" alt="Currículo PDF"/>
+  </a>
 </p>
