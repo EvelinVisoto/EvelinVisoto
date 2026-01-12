@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-rho-nine.vercel.app/api/top-langs/?username=evelinvisoto&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evelinvisoto&theme=tokyonight)
 
 </div>
 
