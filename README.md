@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> • 
+  <a href="README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Evelin Visoto</h1>
 
 <p align="center">
