@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/banner_github.png" alt="Banner Evelin Visoto" width="100%"> 
-</p>
-
-
 <h1 align="center">👋 Hello, I'm Evelin Visoto</h1>
 
 
