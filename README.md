@@ -9,7 +9,7 @@
 <p align="center">
   💻 <b>Full-Stack Developer (Front-end & Back-end)</b> • 🎓 <b>IT Technician</b> • 🚀 <b>Junior Developer</b><br>
   📚 Currently studying <b>React, Angular, TypeScript and AI Integration</b><br>
-  🔍 Open to <b>internship and junior developer opportunities</b>
+  🔍 Open to <b>junior developer opportunities</b>
 </p>
 
 ---
