@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/evelin-visoto-fernandes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
-  <a href="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/CV_EVELIN%20VISOTO_TI_102025.pdf" target="_blank">
+  <a href="https://github.com/EvelinVisoto/EvelinVisoto/blob/main/CV_EVELIN VISOTO_TI_012026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" />
   </a>
 </p>
